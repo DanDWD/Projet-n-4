@@ -181,7 +181,7 @@
         h["[object " + b + "]"] = b.toLowerCase()
     });
 
-    jQuery.htmlPrefilter = function( html ) {
+    htmlPrefilter = function( html ) {
         return html;
     };
 

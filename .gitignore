@@ -1,1 +1,40 @@
 dist/index.html
+dist/page2.html
+.vscode/launch.json
+.gitignore
+js/dist/blocs.dev.js
+js/dist/blocs.dev.js.map
+js/dist/blocs.min.js
+js/dist/blocs.min.js.map
+js/dist/bootstrap.dev.js
+js/dist/bootstrap.dev.js.map
+js/dist/bootstrap.min.js
+js/dist/bootstrap.min.js.map
+js/dist/formHandler.dev.js
+js/dist/formHandler.dev.js.map
+js/dist/formHandler.min.js
+js/dist/formHandler.min.js.map
+js/dist/gmaps.dev.js
+js/dist/gmaps.dev.js.map
+js/dist/gmaps.min.js
+js/dist/gmaps.min.js.map
+js/dist/jqBootstrapValidation.dev.js
+js/dist/jqBootstrapValidation.dev.js.map
+js/dist/jqBootstrapValidation.min.js
+js/dist/jqBootstrapValidation.min.js.map
+js/dist/jquery-2.1.0.dev.js
+js/dist/jquery-2.1.0.dev.js.map
+js/dist/jquery-2.1.0.min.js
+js/dist/jquery-2.1.0.min.js.map
+js/dist/jquery.touchSwipe.dev.js
+js/dist/jquery.touchSwipe.dev.js.map
+js/dist/jquery.touchSwipe.min.js
+js/dist/jquery.touchSwipe.min.js.map
+dist/contact.html
+js/Nouveau dossier/blocs.min.js
+js/Nouveau dossier/bootstrap.min.js
+js/Nouveau dossier/formHandler.min.js
+js/Nouveau dossier/gmaps.min.js
+js/Nouveau dossier/jqBootstrapValidation.min.js
+js/Nouveau dossier/jquery-2.1.0.min.js
+js/Nouveau dossier/jquery.touchSwipe.min.js
